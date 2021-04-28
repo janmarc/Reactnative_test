@@ -4,7 +4,7 @@ Nice to have you here with us, this is a little test just to know you a little b
 
 #1 - Challenge - Let's Gamble - Code Review
 
-Imagine that we had to create a Jackpot Machine, one of our developers came with a code for that, what kind of feedback and/or improvements, would you ask before merge it on our codebase?
+Imagine that we had to create a Jackpot Machine, one of our developers came with a code for that, what kind of feedback and/or improvements would you ask before merge it on our codebase?
 
 ```
 You will be given three reels of different images and told at which index the reels stop. From this information your job is to return the score of the resulted reels.
